@@ -1,3 +1,12 @@
+<<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Quizzo</title>
+</head>
+<body>
+
 # Documentação do Quizzo
 
 O **Quizzo** é um jogo de perguntas e respostas.
@@ -99,3 +108,7 @@ Aqui você conseguirá acompanhar o desenvolvimento do nosso produto, conforme d
 
 #### Modelo Relacional da Base de Dados
 [TODO] Adicionar um link ou imagem.
+
+
+</body>
+</html>
