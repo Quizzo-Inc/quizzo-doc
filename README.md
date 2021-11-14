@@ -21,7 +21,6 @@ O **Quizzo** é um jogo de perguntas e respostas.
 - Augusto César Emanuel Rosa de Assis
 - Debora Ferreira Gonçalves
 - Gabriel Lucas de Paula Gomes
-- Kaylaine Martins Cassimiro
 - Marcelo Laurentino Costa Melo
 - Tulho Henrique de Oliveira Melo
 
