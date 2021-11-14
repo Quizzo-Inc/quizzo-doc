@@ -45,7 +45,7 @@ O **Quizzo** é um jogo de perguntas e respostas.
     </tr>
     <tr>
       <td>08/11/2021</td>
-      <td>1ª Reunião de alinhamento</td>
+      <td>1ª reunião de alinhamento</td>
       <td>Todos</td>
     </tr>
     <tr>
@@ -59,7 +59,7 @@ O **Quizzo** é um jogo de perguntas e respostas.
       <td>Débora Gonçalves</td>
     <tr>
       <td>12/11/2021</td>
-      <td>2ª Reunião de alinhamento</td>
+      <td>2ª reunião de alinhamento</td>
       <td>Todos</td>
     </tr>
     <tr>
@@ -86,6 +86,61 @@ O **Quizzo** é um jogo de perguntas e respostas.
       <td>13/11/2021</td>
       <td>Modelo relacional da base de dados</td>
       <td>Débora Gonçalves, Kaylaine Cassimiro</td>
+    </tr>
+    <tr>
+      <td>14/11/2021</td>
+      <td>3ª reunião de alinhamento</td>
+      <td>Todos</td>
+    </tr>
+    <tr>
+      <td>14/11/2021</td>
+      <td>Criação do código base com classes iniciais</td>
+      <td>Marcelo Laurentino</td>
+    </tr>
+    <tr>
+      <td>14/11/2021</td>
+      <td>Implementação das classes conforme o diagrama</td>
+      <td>Todos</td>
+    </tr>
+    <tr>
+      <td>15/11/2021</td>
+      <td>Desenvolvimento dos métodos das classes</td>
+      <td>Todos</td>
+    </tr>
+    <tr>
+      <td>18/11/2021</td>
+      <td>Estruturação do BD</td>
+      <td>Todos</td>
+    </tr>
+    <tr>
+      <td>20/11/2021</td>
+      <td>Implementação da conexão com BD</td>
+      <td>Todos</td>
+    </tr>
+    <tr>
+      <td>27/11/2021</td>
+      <td>Conclusão do jogo</td>
+      <td>Todos</td>
+    </tr>
+    <tr>
+      <td>28/11/2021</td>
+      <td>Teste e validação</td>
+      <td>Todos</td>
+    </tr>
+    <tr>
+      <td>05/12/2021</td>
+      <td>Entrega do trabalho</td>
+      <td>Todos</td>
+    </tr>
+    <tr>
+      <td>06/12/2021</td>
+      <td>Apresentação do código do jogo</td>
+      <td>Todos</td>
+    </tr>
+    <tr>
+      <td>07/12/2021</td>
+      <td>Apresentação da documentação do jogo</td>
+      <td>Todos</td>
     </tr>
   </tbody>
 </table>
