@@ -161,7 +161,6 @@ Aqui você conseguirá acompanhar o desenvolvimento do nosso produto, conforme d
 #### Modelo Entidade Relacionamento da Base de Dados
 ![image](https://user-images.githubusercontent.com/71988020/143334009-33f784c3-7a62-40e2-8c12-759f123c1c27.png)
 #### Modelo Relacional da Base de Dados
-![image](https://user-images.githubusercontent.com/71988020/143333959-f9f0b9e3-ae24-4c6e-9c0c-66271a93c1c9.png)
-
+![image](https://user-images.githubusercontent.com/71988020/143334087-4061c853-25f1-496c-95f0-61b4319b4c84.png)
 </body>
 </html>
