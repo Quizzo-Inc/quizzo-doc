@@ -154,17 +154,14 @@ Aqui você conseguirá acompanhar o desenvolvimento do nosso produto, conforme d
 ##### Diagrama de Casos de Uso
 ![image](https://user-images.githubusercontent.com/71988020/143333722-8cfa6dc7-f766-4a09-9c0a-0233db99e12e.png)
 
-[TODO] Adicionar um link ou imagem.
 
 #### Diagrama de Classes
 [TODO] Adicionar um link ou imagem.
 
 #### Modelo Entidade Relacionamento da Base de Dados
-[TODO] Adicionar um link ou imagem.
-
+![image](https://user-images.githubusercontent.com/71988020/143334009-33f784c3-7a62-40e2-8c12-759f123c1c27.png)
 #### Modelo Relacional da Base de Dados
-[TODO] Adicionar um link ou imagem.
-
+![image](https://user-images.githubusercontent.com/71988020/143333959-f9f0b9e3-ae24-4c6e-9c0c-66271a93c1c9.png)
 
 </body>
 </html>
