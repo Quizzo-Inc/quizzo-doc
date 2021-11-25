@@ -27,6 +27,20 @@ Os jogadores poderão testar suas habilidades, ganhando aquele que responder o m
 
 ## Backlog do Produto 
     
+    BP01 Backlog do Produto					
+ID	Nome	Importância	PH	Demonstrar	Notas
+HU1	Cadastro de usuário	30	8	Como Jogador quero realizar meu cadastro para conseguir jogar	
+HU2	Escolher personagem	30	8	Como Jogador  quero escolher o personagem antes de iniciar o jogo	Não é permitido o usu do mesmo personagem para diferentes jogadores em uma mesma partida
+HU3	Iniciar jogo	30	8	Como jogador, quero iniciar o jogo após as escolhas dos personagens	
+HU4	Desistir do jogo	27	7	Como jogador, quero ter a opção de desistir do jogo a qualquer momento	
+HU5	Responder pergunta	30	8	Como jogador quero respoder as perguntas para ganhar pontos	
+HU6	Acessar configurações	27	7	Como jogador, quero acessar as configurações do jogo como audio, etc... Antes de iniciar uma partida	
+HU7	Acessar tutorial	20	5	Como jogador, quero ter acesso ao tutoria para entender o funcionamento do jogo	
+HU8	Ativar habilidade	27	7	Como jogador, quero usar minhas habilidades a qualquer momento do jogo	
+HU9	Alterar apelido	15	3	Como jogador, quero ter a opção de mudar o apelido para um de minha preferência	
+![image](https://user-images.githubusercontent.com/71988020/143368503-85a66bf9-12c3-4bf5-a5e6-284bc1c0fb71.png)
+
+    
     
 ## Cronograma
 
