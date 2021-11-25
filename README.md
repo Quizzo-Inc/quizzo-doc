@@ -27,8 +27,6 @@ Os jogadores poderão testar suas habilidades, ganhando aquele que responder o m
 
 ## Cronograma
 
-[TODO] Inserir cronograma aqui.
-
 <table width="100%">
   <thead>
     <tr>
