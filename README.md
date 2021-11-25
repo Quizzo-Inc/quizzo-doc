@@ -26,9 +26,7 @@ Os jogadores poderão testar suas habilidades, ganhando aquele que responder o m
 - Tulho Henrique de Oliveira Melo
 
 ## Backlog do Produto 
-    
-    BP01 Backlog do Produto					
-
+    			
 ![image](https://user-images.githubusercontent.com/71988020/143368503-85a66bf9-12c3-4bf5-a5e6-284bc1c0fb71.png)
 
     
