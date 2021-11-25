@@ -152,6 +152,7 @@ Aqui você conseguirá acompanhar o desenvolvimento do nosso produto, conforme d
 ## Modelagem
 
 ##### Diagrama de Casos de Uso
+![image](https://user-images.githubusercontent.com/71988020/143333722-8cfa6dc7-f766-4a09-9c0a-0233db99e12e.png)
 
 [TODO] Adicionar um link ou imagem.
 
