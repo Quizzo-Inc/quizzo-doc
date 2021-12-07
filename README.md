@@ -146,8 +146,7 @@ Aqui você conseguirá acompanhar o desenvolvimento do nosso produto, conforme d
 ## Modelagem
 
 ##### Diagrama de Casos de Uso
-![image](https://user-images.githubusercontent.com/71988020/143333722-8cfa6dc7-f766-4a09-9c0a-0233db99e12e.png)
-
+![image](https://user-images.githubusercontent.com/71988020/145095014-79a2eb1e-2db6-482f-ad91-f772ed1ee87b.png)
 
 #### Diagrama de Classes
 [TODO] Adicionar um link ou imagem.
