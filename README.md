@@ -19,7 +19,7 @@ Os jogadores poderão testar suas habilidades, ganhando aquele que acertar mais 
 
 ## Colaboradores
 
--Augusto César Emanuel Rosa de Assis RA: 321110261
+</td>-Augusto César Emanuel Rosa de Assis RA: 321110261</td>
 -Debora Ferreira Gonçalves RA: 321119461
 -Gabriel Lucas de Paula Gomes RA: 321221122
 -Marcelo Laurentino Costa Melo RA: 321220650
