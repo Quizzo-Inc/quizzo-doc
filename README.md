@@ -19,11 +19,11 @@ Os jogadores poderão testar suas habilidades, ganhando aquele que acertar mais 
 
 ## Colaboradores
 
-- Augusto César Emanuel Rosa de Assis
-- Debora Ferreira Gonçalves
-- Gabriel Lucas de Paula Gomes
-- Marcelo Laurentino Costa Melo
-- Tulho Henrique de Oliveira Melo
+-Augusto César Emanuel Rosa de Assis RA: 321110261
+-Debora Ferreira Gonçalves RA: 321119461
+-Gabriel Lucas de Paula Gomes RA: 321221122
+-Marcelo Laurentino Costa Melo RA: 321220650
+-Tulho Henrique de Oliveira Melo RA: 321213318
 
 ## Backlog do Produto 
     			
