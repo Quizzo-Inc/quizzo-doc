@@ -148,8 +148,7 @@ Aqui você conseguirá acompanhar o desenvolvimento do nosso produto, conforme d
 ![image](https://user-images.githubusercontent.com/71988020/145095014-79a2eb1e-2db6-482f-ad91-f772ed1ee87b.png)
 
 #### Diagrama de Classes
-![image](https://user-images.githubusercontent.com/71988020/145108328-192b33ab-eb04-480b-9e16-d23adb940caf.png)
-#### Modelo Entidade Relacionamento da Base de Dados
+![image](https://user-images.githubusercontent.com/71988020/145109759-5d8b1123-55b6-41ff-974a-5cf02a4a5776.png)#### Modelo Entidade Relacionamento da Base de Dados
 ![image](https://user-images.githubusercontent.com/71988020/145088205-84bb8e32-d13e-44ff-8fbd-ef36ad17efd5.png)#### Modelo Relacional da Base de Dados
 ![image](https://user-images.githubusercontent.com/71988020/143334087-4061c853-25f1-496c-95f0-61b4319b4c84.png)
 </body>
