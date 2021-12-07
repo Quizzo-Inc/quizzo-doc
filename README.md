@@ -112,11 +112,6 @@ Os jogadores poderão testar suas habilidades, ganhando aquele que responder o m
       <td>Todos</td>
     </tr>
     <tr>
-      <td>18/11/2021</td>
-      <td>Estruturação do BD</td>
-      <td>Todos</td>
-    </tr>
-    <tr>
       <td>20/11/2021</td>
       <td>Conclusão do jogo</td>
       <td>Todos</td>
