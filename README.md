@@ -122,18 +122,18 @@ Os jogadores poderão testar suas habilidades, ganhando aquele que responder o m
       <td>Todos</td>
     </tr>
     <tr>
-      <td>05/12/2021</td>
-      <td>Entrega do trabalho</td>
-      <td>Todos</td>
-    </tr>
-    <tr>
       <td>06/12/2021</td>
-      <td>Apresentação do código do jogo</td>
+      <td>Apresentação do código do jogo pra equipe</td>
       <td>Todos</td>
     </tr>
     <tr>
       <td>07/12/2021</td>
       <td>Apresentação da documentação do jogo</td>
+      <td>Todos</td>
+    </tr>
+    <tr>
+      <td>09/12/2021</td>
+      <td>Entrega final da A3</td>
       <td>Todos</td>
     </tr>
   </tbody>
