@@ -19,11 +19,11 @@ Os jogadores poderão testar suas habilidades, ganhando aquele que acertar mais 
 
 ## Colaboradores
 
- </td>-Augusto César Emanuel Rosa de Assis RA: 321110261</td>
-</td>-Debora Ferreira Gonçalves RA: 321119461</td>
-</td>-Gabriel Lucas de Paula Gomes RA: 321221122</td>
-</td>-Marcelo Laurentino Costa Melo RA: 321220650</td>
-</td>-Tulho Henrique de Oliveira Melo RA: 321213318</td>
+ <br /> -Augusto César Emanuel Rosa de Assis RA: 321110261<br /> 
+<br /> -Debora Ferreira Gonçalves RA: 321119461<br /> 
+<br /> -Gabriel Lucas de Paula Gomes RA: 321221122<br /> 
+<br /> -Marcelo Laurentino Costa Melo RA: 321220650<br /> 
+<br /> -Tulho Henrique de Oliveira Melo RA: 321213318<br /> 
 
 ## Backlog do Produto 
     			
