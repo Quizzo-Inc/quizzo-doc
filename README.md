@@ -84,12 +84,12 @@ Os jogadores poderão testar suas habilidades, ganhando aquele que responder o m
     <tr>
       <td>13/11/2021</td>
       <td>Modelo entidade relacionamento da base de dados</td>
-      <td>Débora Gonçalves, Kaylaine Cassimiro</td>
+      <td>Débora Gonçalves</td>
     </tr>
     <tr>
       <td>13/11/2021</td>
       <td>Modelo relacional da base de dados</td>
-      <td>Débora Gonçalves, Kaylaine Cassimiro</td>
+      <td>Débora Gonçalves</td>
     </tr>
     <tr>
       <td>14/11/2021</td>
@@ -118,11 +118,6 @@ Os jogadores poderão testar suas habilidades, ganhando aquele que responder o m
     </tr>
     <tr>
       <td>20/11/2021</td>
-      <td>Implementação da conexão com BD</td>
-      <td>Todos</td>
-    </tr>
-    <tr>
-      <td>27/11/2021</td>
       <td>Conclusão do jogo</td>
       <td>Todos</td>
     </tr>
