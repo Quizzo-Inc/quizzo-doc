@@ -27,8 +27,7 @@ Os jogadores poderão testar suas habilidades, ganhando aquele que acertar mais 
 
 ## Backlog do Produto 
     			
-![image](https://user-images.githubusercontent.com/71988020/145096121-60b9d8b9-4863-4d3e-9172-013204ec07f2.png)
-    
+![image](https://user-images.githubusercontent.com/71988020/145112749-1ec6e525-f4f3-4973-ac8f-68e426f5940c.png)    
     
 ## Cronograma
 
