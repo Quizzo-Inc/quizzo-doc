@@ -27,8 +27,7 @@ Os jogadores poderão testar suas habilidades, ganhando aquele que responder o m
 
 ## Backlog do Produto 
     			
-![image](https://user-images.githubusercontent.com/71988020/143368503-85a66bf9-12c3-4bf5-a5e6-284bc1c0fb71.png)
-
+![image](https://user-images.githubusercontent.com/71988020/145096121-60b9d8b9-4863-4d3e-9172-013204ec07f2.png)
     
     
 ## Cronograma
