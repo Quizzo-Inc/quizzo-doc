@@ -3,7 +3,6 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    Quizzo 
 </head>
 <body>
 
@@ -120,9 +119,24 @@ Os jogadores poderão testar suas habilidades, ganhando aquele que acertar mais 
       <td>Todos</td>
     </tr>
     <tr>
+      <td>04/12/2021</td>
+      <td>Definição de sons para o jogo</td>
+      <td>Augusto César</td>
+    </tr>
+    <tr>
       <td>06/12/2021</td>
       <td>Apresentação do código do jogo pra equipe</td>
       <td>Todos</td>
+    </tr>
+    <tr>
+      <td>06/12/2021</td>
+      <td>Gravação do vídeo demonstrativo</td>
+      <td>Gabriel Gomes</td>
+    </tr>
+    <tr>
+      <td>06/12/2021</td>
+      <td>Edição e publicação do vídeo</td>
+      <td>Tulho Melo</td>
     </tr>
     <tr>
       <td>07/12/2021</td>
@@ -143,12 +157,26 @@ Aqui você conseguirá acompanhar o desenvolvimento do nosso produto, conforme d
 
 ## Modelagem
 
-##### Diagrama de Casos de Uso
+#### Diagrama de Casos de Uso
 ![image](https://user-images.githubusercontent.com/71988020/145095014-79a2eb1e-2db6-482f-ad91-f772ed1ee87b.png)
 
 #### Diagrama de Classes
-![image](https://user-images.githubusercontent.com/71988020/145109759-5d8b1123-55b6-41ff-974a-5cf02a4a5776.png)#### Modelo Entidade Relacionamento da Base de Dados
-![image](https://user-images.githubusercontent.com/71988020/145088205-84bb8e32-d13e-44ff-8fbd-ef36ad17efd5.png)#### Modelo Relacional da Base de Dados
+![image](https://user-images.githubusercontent.com/71988020/145109759-5d8b1123-55b6-41ff-974a-5cf02a4a5776.png)
+
+#### Modelo Entidade Relacionamento da Base de Dados
+![image](https://user-images.githubusercontent.com/71988020/145088205-84bb8e32-d13e-44ff-8fbd-ef36ad17efd5.png)
+
+#### Modelo Relacional da Base de Dados
 ![image](https://user-images.githubusercontent.com/71988020/143334087-4061c853-25f1-496c-95f0-61b4319b4c84.png)
-</body>
+
+    
+## Agradecimentos
+
+Aos nossos professores pelo préstimo em nos orientar e compartilhar seu conhecimento conosco.
+- Gustavo Alves Fernandes
+- Julio Vilela da Silva Neto
+- Rafaela Priscila Cruz Moreira
+- Samara Soares Leal
+    
+    </body>
 </html>
